@@ -1,0 +1,1 @@
+<h1>KalaPress can not be used on it's own! You must activate the appropriate child theme that was developed for your website.</h1>
