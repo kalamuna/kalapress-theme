@@ -4,4 +4,8 @@ jQuery(document).ready(function($) {
         $('body').toggleClass('mobile-menu-active');
     });
 
+    $('.mobile-menu-overlay').click(function () {
+        $('body').removeClass('mobile-menu-active');
+    });
+
 });

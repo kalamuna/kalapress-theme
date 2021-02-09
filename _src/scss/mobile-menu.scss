@@ -10,7 +10,7 @@ $mobile-menu-position: calc(-100vw + 108px);
   top: 0;
   transition: right .25s ease-out;
   background-color: #444;
-  z-index: 100000;
+  z-index: 100001;
 
   @media (min-width: 768px) {
     width: 400px;
@@ -49,7 +49,7 @@ $mobile-menu-position: calc(-100vw + 108px);
   width: 100vw;
   position: fixed;
   background: rgba(0, 0, 0, 0.5);
-  z-index: 99999;
+  z-index: 100000;
   top: -200vh;
   right: -200vw;
   opacity: 0;
