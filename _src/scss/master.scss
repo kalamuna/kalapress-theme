@@ -95,5 +95,9 @@ main {
 @import "mobile-menu.scss";
 
 @import "web/app/themes/kalapress-child/_src/scss/master.scss";
+
 @import "web/app/themes/kalapress-child/header/styles.scss";
 @import "web/app/themes/kalapress-child/footer/styles.scss";
+
+@import "web/app/plugins/kalapress-page-builder/content-modules/**/styles.scss";
+@import "web/app/themes/kalapress-child/kalapress-page-builder/content-modules/**/styles.scss";
