@@ -1,5 +1,7 @@
 <?php
 
+add_theme_support( 'title-tag' );
+
 /*
 // Disable theme/plugin installation and updates for non-Kalamuna users
 // Massage menu and plugin list for non-Kalamuna users
