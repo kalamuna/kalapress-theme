@@ -22,6 +22,7 @@
 <div class="mobile-menu-overlay"></div>
 <div class="mobile-menu">
     <button class="mobile-menu-close">
+        <p class="screenreader-text">Close Button</p>
         <svg id="close_icon" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40.02">
             <defs>
                 <style>
