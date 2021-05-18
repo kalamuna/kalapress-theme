@@ -19,7 +19,7 @@
 
 </div>
 
-<div class="mobile-menu-overlay"></div>
+<!-- <div class="mobile-menu-overlay"></div>
 <div class="mobile-menu">
     <button class="mobile-menu-close">
         <p class="screenreader-text">Close Button</p>
@@ -45,7 +45,7 @@
 	        ));
         endif;
     ?>
-</div>
+</div> -->
 
 
 
