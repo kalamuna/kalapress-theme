@@ -11,6 +11,11 @@ $mobile-menu-position: calc(-100vw + 108px);
   transition: right .25s ease-out;
   background-color: #444;
   z-index: 100001;
+  display: none;
+
+  @media (max-width: 991px) {
+    display: block;
+  }
 
   @media (min-width: 768px) {
     width: 400px;
